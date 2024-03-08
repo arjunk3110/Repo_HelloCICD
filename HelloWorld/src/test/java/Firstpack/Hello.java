@@ -10,7 +10,7 @@ public class Hello
 	{
 		
 		
-		System.out.println("HI");
+		System.out.println("HI hi");
 	}
 
 }
